@@ -1,9 +1,10 @@
 import React from "react";
+import Top from "./Header";
 
 const App = () => {
 	return (
 		<div className="App">
-			<span>hi react</span>
+			<Top />
 		</div>
 	);
 };
